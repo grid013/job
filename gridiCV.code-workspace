@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"remoteAuthority": "codeinstituteor-gitpodfu-uazx2xqg6do.ws-eu31.gitpod.io",
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"workbench.colorTheme": "Visual Studio Dark",
+		"terminal.integrated.gpuAcceleration": "canvas"
+	}
+}
